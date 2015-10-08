@@ -12,6 +12,8 @@ Details below.
 
 Once you've done that you can `sbt` and `compile` away.  You can restart a battle in Robocode and it appears to pick up changes.
 
+This repository contains a _sample.ScalaMyFirstRobot_ which is the same as _MyFirstRobot_ but syntactically ported to Scala.
+
 ## Scala library
 
 In my installation of _robocode_, I coped  _robocode.sh_ and added in the path to Scala std lib:
@@ -34,6 +36,6 @@ In my installation of _robocode_, I coped  _robocode.sh_ and added in the path t
 
 ## Robocode Developer Options
 
-After launcing Robocode, select Preferences, and in Developer Options, Add the path to your compiled robots:
+After launching Robocode, select _Options_ > _Preferences_, and in _Developer Options_, hit _Add_ and pick the path to your compiled robots:
 
 ![prefs](https://api.monosnap.com/rpc/file/download?id=3UmtafwiylYHVBqwObVYbUlGJH1N5B)
