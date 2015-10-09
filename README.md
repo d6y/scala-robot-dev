@@ -2,9 +2,9 @@
 
 This is a Scala project in which you can write and compile Robocode robots.
 
-To then be able to run them in Robocode itself, there are two things to do
+To then be able to run them in Robocode itself, there are two things to do:
 
-1. Add your Scala library dependencies to the robotcode shell script.
+1. Add the Scala library as a dependency to the robotcode shell script; and
 
 2. Add your _target/classes_ path to the "Developer Options" in Robocode itself.
 
